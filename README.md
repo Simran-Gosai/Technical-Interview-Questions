@@ -2,7 +2,7 @@
 
 TIAA interview experience
 
-TR 1 :
+Technical Round 1 :
 • how was your day
 • introduce yourself
 • tell me about your projects (and explain them in depth)
