@@ -20,7 +20,7 @@ Technical Round 1 :
 • pseudo code for a pattern, how would you do it in one loop / optimisation
 • any Questions for me
 
-TR2:
+Technical Round 2 :
 • what is abstraction
 • interfaces
 • which is your preferred language and why
