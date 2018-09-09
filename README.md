@@ -31,7 +31,7 @@ Technical Round 2 :
 • write SQL Queries for given two cases
 • attributes of an Ola database
 
-MR:
+Management Round :
 • what made you choose IT
 • what is an OS, why do we need them
 • 6 lifts in office bldg problem
