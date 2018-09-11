@@ -41,7 +41,7 @@ Management Round :
 • which position do you think best suits your profile
 • what are your 5 year plan
 
-Also asked Qs:
+Also asked Questions:
 • any 5 Linux commands
 • collections framework? Give all collections in java and their methods
 • Qs on Android if you've worked on it
