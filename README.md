@@ -11,7 +11,7 @@ Technical Round 1 :
 • what is testing and have you performed it in any project
 • project related db query
 • what are web services
-• what are APIs
+• what are APIs ?
 • one daily use case where stack is used
 • complexity of stack operations
 • what's a tree / binary tree / BST
