@@ -10,7 +10,7 @@ Technical Round 1 :
 • draw database structure for the same
 • what is testing and have you performed it in any project
 • project related db query
-• what are web services
+• what are web services?
 • what are APIs ?
 • one daily use case where stack is used
 • complexity of stack operations
