@@ -3,7 +3,7 @@
 TIAA interview experience
 
 Technical Round 1 :
-• how was your day
+• how was your day?
 • introduce yourself
 • tell me about your projects (and explain them in depth)
 • draw architecture diagram of any project you've developed
@@ -37,7 +37,7 @@ Management Round :
 • 6 lifts in office building problem
 • favourite subject and why
 • different between data structures and data bases
-• why do we use/ require DB
+• why do we use/ require DB?
 • which position do you think best suits your profile
 • what are your 5 year plan
 
