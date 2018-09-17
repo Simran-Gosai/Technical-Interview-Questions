@@ -36,7 +36,7 @@ Management Round :
 • what is an OS, why do we need them
 • 6 lifts in office building problem
 • favourite subject and why?
-• different between data structures and data bases
+• different between data structures and data bases?
 • why do we use/ require DB?
 • which position do you think best suits your profile
 • what are your 5 year plan
