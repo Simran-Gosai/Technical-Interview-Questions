@@ -12,7 +12,7 @@ Technical Round 1 :
 • project related db query
 • what are web services?
 • what are APIs ?
-• one daily use case where stack is used
+• one daily use case where stack is used ?
 • complexity of stack operations
 • what's a tree / binary tree / BST ?
 • how would you solve the problem of left leaning/ heavy tree ?
