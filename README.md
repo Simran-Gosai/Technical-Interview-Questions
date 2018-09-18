@@ -13,7 +13,7 @@ Technical Round 1 :
 • what are web services?
 • what are APIs ?
 • one daily use case where stack is used ?
-• complexity of stack operations
+• complexity of stack operations?
 • what's a tree / binary tree / BST ?
 • how would you solve the problem of left leaning/ heavy tree ?
 • how would you find the maximum element from incoming stream of elements
