@@ -4,7 +4,7 @@ TIAA interview experience
 
 Technical Round 1 :
 • how was your day?
-• introduce yourself !
+• introduce yourself!
 • tell me about your projects (and explain them in depth)
 • draw architecture diagram of any project you've developed
 • draw database structure for the same
