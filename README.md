@@ -32,7 +32,7 @@ Technical Round 2 :
 • attributes of an Ola database
 
 Management Round :
-• what made you choose IT
+• what made you choose IT ?
 • what is an OS, why do we need them
 • 6 lifts in office building problem
 • favourite subject and why?
