@@ -18,7 +18,7 @@ Technical Round 1 :
 • how would you solve the problem of left leaning/ heavy tree ?
 • how would you find the maximum element from incoming stream of elements
 • pseudo code for a pattern, how would you do it in one loop / optimisation ?
-• any Questions for me
+• any Questions for me ?
 
 Technical Round 2 :
 • what is abstraction
