@@ -34,7 +34,7 @@ Technical Round 2 :
 Management Round :
 • what made you choose IT ?
 • what is an OS, why do we need them
-• 6 lifts in office building problem
+• 6 lifts in office building problem ?
 • favourite subject and why?
 • different between data structures and data bases?
 • why do we use/ require DB?
