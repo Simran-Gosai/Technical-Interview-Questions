@@ -6,7 +6,7 @@ Technical Round 1 :
 • how was your day?
 • introduce yourself!
 • tell me about your projects (and explain them in depth)
-• draw architecture diagram of any project you've developed
+• draw architecture diagram of any project you've developed ?
 • draw database structure for the same
 • what is testing and have you performed it in any project?
 • project related db query
