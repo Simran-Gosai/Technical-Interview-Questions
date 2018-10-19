@@ -45,3 +45,6 @@ Also asked Questions:
 • any 5 Linux commands
 • collections framework? Give all collections in java and their methods
 • Qs on Android if you've worked on it
+
+*Additional questions
+Questions on problem solving, maths and situational questions
